@@ -1,7 +1,7 @@
 # repositorio-1
 Este é meu primeiro repositório
 
-## Aqui é meu segundo tópico
+## Aqui é meu sub-tópico
 
 afafa gagsas
 
